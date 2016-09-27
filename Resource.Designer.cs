@@ -553,6 +553,166 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap Item_BtAppraise3_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtAppraise3_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtAppraise3_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtAppraise3_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtAppraise3_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtAppraise3_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtAppraise3_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtAppraise3_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtAppraise4_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtAppraise4_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtAppraise4_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtAppraise4_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtAppraise4_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtAppraise4_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtAppraise4_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtAppraise4_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtBits3_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtBits3_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtBits3_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtBits3_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtBits3_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtBits3_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtBits3_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtBits3_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtBits4_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtBits4_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtBits4_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtBits4_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtBits4_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtBits4_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtBits4_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtBits4_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap Item_BtCoin_disabled_0 {
             get {
                 object obj = ResourceManager.GetObject("Item_BtCoin_disabled_0", resourceCulture);
@@ -586,6 +746,166 @@ namespace CharaSimResource {
         public static System.Drawing.Bitmap Item_BtCoin_pressed_0 {
             get {
                 object obj = ResourceManager.GetObject("Item_BtCoin_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtDisassemble3_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtDisassemble3_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtDisassemble3_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtDisassemble3_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtDisassemble3_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtDisassemble3_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtDisassemble3_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtDisassemble3_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtDisassemble4_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtDisassemble4_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtDisassemble4_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtDisassemble4_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtDisassemble4_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtDisassemble4_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtDisassemble4_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtDisassemble4_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtExtract3_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtExtract3_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtExtract3_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtExtract3_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtExtract3_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtExtract3_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtExtract3_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtExtract3_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtExtract4_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtExtract4_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtExtract4_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtExtract4_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtExtract4_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtExtract4_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtExtract4_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtExtract4_pressed_0", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -673,6 +993,126 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap Item_BtPoint_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtPoint_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtPoint_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtPoint_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtPoint_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtPoint_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtPoint_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtPoint_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtPot3_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtPot3_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtPot3_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtPot3_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtPot3_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtPot3_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtPot3_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtPot3_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtPot4_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtPot4_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtPot4_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtPot4_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtPot4_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtPot4_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtPot4_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtPot4_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap Item_BtSmall_disabled_0 {
             get {
                 object obj = ResourceManager.GetObject("Item_BtSmall_disabled_0", resourceCulture);
@@ -746,6 +1186,166 @@ namespace CharaSimResource {
         public static System.Drawing.Bitmap Item_BtSort_pressed_0 {
             get {
                 object obj = ResourceManager.GetObject("Item_BtSort_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtToad3_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtToad3_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtToad3_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtToad3_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtToad3_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtToad3_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtToad3_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtToad3_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtToad4_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtToad4_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtToad4_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtToad4_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtToad4_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtToad4_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtToad4_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtToad4_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtUpgrade3_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtUpgrade3_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtUpgrade3_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtUpgrade3_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtUpgrade3_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtUpgrade3_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtUpgrade3_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtUpgrade3_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtUpgrade4_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtUpgrade4_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtUpgrade4_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtUpgrade4_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtUpgrade4_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtUpgrade4_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtUpgrade4_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtUpgrade4_pressed_0", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
