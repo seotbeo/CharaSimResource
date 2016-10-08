@@ -713,6 +713,46 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap Item_BtCashshop_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtCashshop_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtCashshop_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtCashshop_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtCashshop_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtCashshop_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Item_BtCashshop_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_BtCashshop_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap Item_BtCoin_disabled_0 {
             get {
                 object obj = ResourceManager.GetObject("Item_BtCoin_disabled_0", resourceCulture);
