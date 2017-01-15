@@ -1613,6 +1613,16 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap Item_monsterCollection_0 {
+            get {
+                object obj = ResourceManager.GetObject("Item_monsterCollection_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap Item_Quality_0_0 {
             get {
                 object obj = ResourceManager.GetObject("Item_Quality_0_0", resourceCulture);
