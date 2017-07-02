@@ -163,6 +163,26 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap CashItem_label_1 {
+            get {
+                object obj = ResourceManager.GetObject("CashItem_label_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap CashItem_label_2 {
+            get {
+                object obj = ResourceManager.GetObject("CashItem_label_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap CashItem_label_3 {
             get {
                 object obj = ResourceManager.GetObject("CashItem_label_3", resourceCulture);
