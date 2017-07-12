@@ -1823,6 +1823,16 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap ItemProtector_Icon_0 {
+            get {
+                object obj = ResourceManager.GetObject("ItemProtector_Icon_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap Stat_detail_abilityTitle_normal_0 {
             get {
                 object obj = ResourceManager.GetObject("Stat_detail_abilityTitle_normal_0", resourceCulture);
