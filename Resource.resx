@@ -193,11 +193,17 @@
   <data name="Stat_detail_backgrnd3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\Stat.detail.backgrnd3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Stat_detail_backgrnd4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Stat.detail.backgrnd4.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Stat_detail_abilityTitle_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\Stat.detail.abilityTitle.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Stat_detail_metierLine_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\Stat.detail.metierLine.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stat_detail_metierLine_disabled_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Stat.detail.metierLine.disabled.1.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Stat_detail_BtHpUp_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\Stat.detail.BtHpUp.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -210,6 +216,18 @@
   </data>
   <data name="Stat_detail_BtHpUp_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\Stat.detail.BtHpUp.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stat_detail_BtAbility_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Stat.detail.BtAbility.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stat_detail_BtAbility_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Stat.detail.BtAbility.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stat_detail_BtAbility_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Stat.detail.BtAbility.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stat_detail_BtAbility_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Stat.detail.BtAbility.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Stat_main_BtDetailClose_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\Stat.main.BtDetailClose.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -235,6 +253,54 @@
   <data name="Stat_main_BtDetailOpen_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\Stat.main.BtDetailOpen.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Stat_main_BtHyperStatClose_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Stat.main.BtHyperStatClose.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stat_main_BtHyperStatClose_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Stat.main.BtHyperStatClose.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stat_main_BtHyperStatClose_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Stat.main.BtHyperStatClose.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stat_main_BtHyperStatClose_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Stat.main.BtHyperStatClose.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stat_main_BtHyperStatOpen_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Stat.main.BtHyperStatOpen.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stat_main_BtHyperStatOpen_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Stat.main.BtHyperStatOpen.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stat_main_BtHyperStatOpen_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Stat.main.BtHyperStatOpen.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stat_main_BtHyperStatOpen_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Stat.main.BtHyperStatOpen.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stat_main_BtHyperStatClose_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Stat.main.BtHyperStatClose.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stat_main_BtHyperStatClose_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Stat.main.BtHyperStatClose.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stat_main_BtHyperStatClose_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Stat.main.BtHyperStatClose.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stat_main_BtHyperStatClose_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Stat.main.BtHyperStatClose.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stat_main_BtHyperStatOpen_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Stat.main.BtHyperStatOpen.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stat_main_BtHyperStatOpen_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Stat.main.BtHyperStatOpen.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stat_main_BtHyperStatOpen_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Stat.main.BtHyperStatOpen.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stat_main_BtHyperStatOpen_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Stat.main.BtHyperStatOpen.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Stat_main_Disabled_DEX" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\Stat.main.Disabled.DEX.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -246,6 +312,78 @@
   </data>
   <data name="Stat_main_Disabled_STR" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\Stat.main.Disabled.STR.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_backgrnd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.backgrnd.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_backgrnd2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.backgrnd2.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_backgrnd3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.backgrnd3.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_BtReduce_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.BtReduce.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_BtReduce_mouseOver_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.BtReduce.mouseOver.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_BtReduce_normal_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.BtReduce.normal.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_BtReduce_pressed_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.BtReduce.pressed.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_statList_80000400" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.statList.80000400.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_statList_80000401" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.statList.80000401.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_statList_80000402" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.statList.80000402.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_statList_80000403" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.statList.80000403.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_statList_80000404" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.statList.80000404.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_statList_80000405" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.statList.80000405.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_statList_80000406" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.statList.80000406.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_statList_80000407" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.statList.80000407.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_statList_80000408" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.statList.80000408.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_statList_80000409" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.statList.80000409.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_statList_80000410" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.statList.80000410.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_statList_80000412" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.statList.80000412.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_statList_80000413" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.statList.80000413.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_statList_80000414" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.statList.80000414.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_statList_80000415" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.statList.80000415.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_statList_80000416" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.statList.80000416.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="HyperStat_Window_statList_80000417" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\HyperStat.Window.statList.80000417.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Item_Tab_disabled_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\Item.Tab.disabled.0.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>

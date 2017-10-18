@@ -753,6 +753,246 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_backgrnd {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_backgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_backgrnd2 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_backgrnd2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_backgrnd3 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_backgrnd3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_BtReduce_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_BtReduce_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_BtReduce_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_BtReduce_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_BtReduce_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_BtReduce_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_BtReduce_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_BtReduce_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_statList_80000400 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_statList_80000400", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_statList_80000401 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_statList_80000401", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_statList_80000402 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_statList_80000402", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_statList_80000403 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_statList_80000403", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_statList_80000404 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_statList_80000404", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_statList_80000405 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_statList_80000405", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_statList_80000406 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_statList_80000406", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_statList_80000407 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_statList_80000407", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_statList_80000408 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_statList_80000408", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_statList_80000409 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_statList_80000409", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_statList_80000410 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_statList_80000410", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_statList_80000412 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_statList_80000412", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_statList_80000413 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_statList_80000413", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_statList_80000414 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_statList_80000414", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_statList_80000415 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_statList_80000415", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_statList_80000416 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_statList_80000416", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_statList_80000417 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_statList_80000417", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap IconBase_0 {
             get {
                 object obj = ResourceManager.GetObject("IconBase_0", resourceCulture);
@@ -1903,6 +2143,56 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap Stat_detail_backgrnd4 {
+            get {
+                object obj = ResourceManager.GetObject("Stat_detail_backgrnd4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Stat_detail_BtAbility_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("Stat_detail_BtAbility_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Stat_detail_BtAbility_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("Stat_detail_BtAbility_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Stat_detail_BtAbility_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("Stat_detail_BtAbility_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Stat_detail_BtAbility_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("Stat_detail_BtAbility_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap Stat_detail_BtHpUp_disabled_0 {
             get {
                 object obj = ResourceManager.GetObject("Stat_detail_BtHpUp_disabled_0", resourceCulture);
@@ -1946,6 +2236,16 @@ namespace CharaSimResource {
         public static System.Drawing.Bitmap Stat_detail_metierLine_disabled_0 {
             get {
                 object obj = ResourceManager.GetObject("Stat_detail_metierLine_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Stat_detail_metierLine_disabled_1 {
+            get {
+                object obj = ResourceManager.GetObject("Stat_detail_metierLine_disabled_1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2096,6 +2396,86 @@ namespace CharaSimResource {
         public static System.Drawing.Bitmap Stat_main_BtDetailOpen_pressed_0 {
             get {
                 object obj = ResourceManager.GetObject("Stat_main_BtDetailOpen_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Stat_main_BtHyperStatClose_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("Stat_main_BtHyperStatClose_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Stat_main_BtHyperStatClose_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("Stat_main_BtHyperStatClose_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Stat_main_BtHyperStatClose_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("Stat_main_BtHyperStatClose_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Stat_main_BtHyperStatClose_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("Stat_main_BtHyperStatClose_pressed_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Stat_main_BtHyperStatOpen_disabled_0 {
+            get {
+                object obj = ResourceManager.GetObject("Stat_main_BtHyperStatOpen_disabled_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Stat_main_BtHyperStatOpen_mouseOver_0 {
+            get {
+                object obj = ResourceManager.GetObject("Stat_main_BtHyperStatOpen_mouseOver_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Stat_main_BtHyperStatOpen_normal_0 {
+            get {
+                object obj = ResourceManager.GetObject("Stat_main_BtHyperStatOpen_normal_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap Stat_main_BtHyperStatOpen_pressed_0 {
+            get {
+                object obj = ResourceManager.GetObject("Stat_main_BtHyperStatOpen_pressed_0", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
