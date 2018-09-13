@@ -47,8 +47,8 @@ namespace CharaSimResource {
         }
         
         /// <summary>
-        ///   이 강력한 형식의 리소스 클래스를 사용하여 모든 리소스 조회에 대한 현재 스레드의 CurrentUICulture
-        ///   속성을 재정의합니다.
+        ///   이 강력한 형식의 리소스 클래스를 사용하여 모든 리소스 조회에 대해 현재 스레드의 CurrentUICulture 속성을
+        ///   재정의합니다.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
         public static global::System.Globalization.CultureInfo Culture {
@@ -216,6 +216,36 @@ namespace CharaSimResource {
         public static System.Drawing.Bitmap CashItem_label_6 {
             get {
                 object obj = ResourceManager.GetObject("CashItem_label_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap CashItem_label_7 {
+            get {
+                object obj = ResourceManager.GetObject("CashItem_label_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap CashItem_label_8 {
+            get {
+                object obj = ResourceManager.GetObject("CashItem_label_8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap CashItem_label_9 {
+            get {
+                object obj = ResourceManager.GetObject("CashItem_label_9", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
