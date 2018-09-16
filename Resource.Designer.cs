@@ -153,9 +153,9 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        public static System.Drawing.Bitmap CashItem_label_0 {
+        public static System.Drawing.Bitmap CashShop_img_CashItem_label_0 {
             get {
-                object obj = ResourceManager.GetObject("CashItem_label_0", resourceCulture);
+                object obj = ResourceManager.GetObject("CashShop_img_CashItem_label_0", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -163,9 +163,9 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        public static System.Drawing.Bitmap CashItem_label_1 {
+        public static System.Drawing.Bitmap CashShop_img_CashItem_label_1 {
             get {
-                object obj = ResourceManager.GetObject("CashItem_label_1", resourceCulture);
+                object obj = ResourceManager.GetObject("CashShop_img_CashItem_label_1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -173,9 +173,9 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        public static System.Drawing.Bitmap CashItem_label_2 {
+        public static System.Drawing.Bitmap CashShop_img_CashItem_label_2 {
             get {
-                object obj = ResourceManager.GetObject("CashItem_label_2", resourceCulture);
+                object obj = ResourceManager.GetObject("CashShop_img_CashItem_label_2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -183,9 +183,9 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        public static System.Drawing.Bitmap CashItem_label_3 {
+        public static System.Drawing.Bitmap CashShop_img_CashItem_label_3 {
             get {
-                object obj = ResourceManager.GetObject("CashItem_label_3", resourceCulture);
+                object obj = ResourceManager.GetObject("CashShop_img_CashItem_label_3", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -193,9 +193,9 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        public static System.Drawing.Bitmap CashItem_label_4 {
+        public static System.Drawing.Bitmap CashShop_img_CashItem_label_4 {
             get {
-                object obj = ResourceManager.GetObject("CashItem_label_4", resourceCulture);
+                object obj = ResourceManager.GetObject("CashShop_img_CashItem_label_4", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -203,9 +203,9 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        public static System.Drawing.Bitmap CashItem_label_5 {
+        public static System.Drawing.Bitmap CashShop_img_CashItem_label_5 {
             get {
-                object obj = ResourceManager.GetObject("CashItem_label_5", resourceCulture);
+                object obj = ResourceManager.GetObject("CashShop_img_CashItem_label_5", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -213,9 +213,9 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        public static System.Drawing.Bitmap CashItem_label_6 {
+        public static System.Drawing.Bitmap CashShop_img_CashItem_label_6 {
             get {
-                object obj = ResourceManager.GetObject("CashItem_label_6", resourceCulture);
+                object obj = ResourceManager.GetObject("CashShop_img_CashItem_label_6", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -223,9 +223,9 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        public static System.Drawing.Bitmap CashItem_label_7 {
+        public static System.Drawing.Bitmap CashShop_img_CashItem_label_7 {
             get {
-                object obj = ResourceManager.GetObject("CashItem_label_7", resourceCulture);
+                object obj = ResourceManager.GetObject("CashShop_img_CashItem_label_7", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -233,9 +233,9 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        public static System.Drawing.Bitmap CashItem_label_8 {
+        public static System.Drawing.Bitmap CashShop_img_CashItem_label_8 {
             get {
-                object obj = ResourceManager.GetObject("CashItem_label_8", resourceCulture);
+                object obj = ResourceManager.GetObject("CashShop_img_CashItem_label_8", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -243,9 +243,9 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        public static System.Drawing.Bitmap CashItem_label_9 {
+        public static System.Drawing.Bitmap CashShop_img_CashItem_label_9 {
             get {
-                object obj = ResourceManager.GetObject("CashItem_label_9", resourceCulture);
+                object obj = ResourceManager.GetObject("CashShop_img_CashItem_label_9", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
