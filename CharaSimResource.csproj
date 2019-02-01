@@ -476,18 +476,6 @@
     <None Include="Resources\Item.BtSmall.mouseOver.0.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Item.BtCoin.normal.0.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Item.BtCoin.pressed.0.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Item.BtCoin.disabled.0.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Item.BtCoin.mouseOver.0.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\Item.BtFull.normal.0.png" />
   </ItemGroup>
   <ItemGroup>
@@ -1122,6 +1110,477 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\ToolTip.Equip.AlienStone.Unique.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CashShop.img.CashItem_label.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CashShop.img.CashItem_label.1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CashShop.img.CashItem_label.2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CashShop.img.CashItem_label.3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CashShop.img.CashItem_label.4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CashShop.img.CashItem_label.5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CashShop.img.CashItem_label.6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CashShop.img.CashItem_label.7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CashShop.img.CashItem_label.8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CashShop.img.CashItem_label.9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CSDiscount.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CSDiscount.1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CSDiscount.2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CSDiscount.3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CSDiscount.4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CSDiscount.5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CSDiscount.6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CSDiscount.7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CSDiscount.8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CSDiscount.9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CSDiscount.arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CSDiscount.backgrnd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CSDiscount.bonus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CSDiscount.e.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CSDiscount.Line.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CSDiscount.total.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CSDiscount.w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.backgrnd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.backgrnd2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.backgrnd3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.BtReduce.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.BtReduce.mouseOver.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.BtReduce.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.BtReduce.pressed.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.statList.80000400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.statList.80000401.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.statList.80000402.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.statList.80000403.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.statList.80000404.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.statList.80000405.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.statList.80000406.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.statList.80000407.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.statList.80000408.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.statList.80000409.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.statList.80000410.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.statList.80000412.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.statList.80000413.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.statList.80000414.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.statList.80000415.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.statList.80000416.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.statList.80000417.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.statList.80000418.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.statList.80000419.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.statList.80000420.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HyperStat.Window.statList.80000421.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtAppraise3.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtAppraise3.mouseOver.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtAppraise3.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtAppraise3.pressed.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtAppraise4.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtAppraise4.mouseOver.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtAppraise4.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtAppraise4.pressed.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtBits3.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtBits3.mouseOver.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtBits3.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtBits3.pressed.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtBits4.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtBits4.mouseOver.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtBits4.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtBits4.pressed.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtCashshop.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtCashshop.mouseOver.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtCashshop.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtCashshop.pressed.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtCoin3.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtCoin3.mouseOver.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtCoin3.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtCoin3.pressed.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtCoin4.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtCoin4.mouseOver.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtCoin4.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtCoin4.pressed.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtDisassemble3.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtDisassemble3.mouseOver.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtDisassemble3.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtDisassemble3.pressed.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtDisassemble4.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtDisassemble4.mouseOver.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtDisassemble4.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtDisassemble4.pressed.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtExtract3.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtExtract3.mouseOver.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtExtract3.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtExtract3.pressed.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtExtract4.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtExtract4.mouseOver.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtExtract4.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtExtract4.pressed.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtPoint.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtPoint.mouseOver.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtPoint.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtPoint.pressed.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtPot3.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtPot3.mouseOver.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtPot3.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtPot3.pressed.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtPot4.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtPot4.mouseOver.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtPot4.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtPot4.pressed.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtToad3.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtToad3.mouseOver.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtToad3.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtToad3.pressed.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtToad4.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtToad4.mouseOver.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtToad4.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtToad4.pressed.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtUpgrade3.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtUpgrade3.mouseOver.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtUpgrade3.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtUpgrade3.pressed.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtUpgrade4.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtUpgrade4.mouseOver.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtUpgrade4.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.BtUpgrade4.pressed.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.monsterCollection.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Item.timeLimit.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ItemProtector.Icon.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stat.detail.abilityTitle.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stat.detail.backgrnd3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stat.detail.backgrnd4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stat.detail.BtAbility.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stat.detail.BtAbility.mouseOver.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stat.detail.BtAbility.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stat.detail.BtAbility.pressed.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stat.detail.metierLine.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stat.detail.metierLine.disabled.1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stat.main.BtHyperStatClose.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stat.main.BtHyperStatClose.mouseOver.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stat.main.BtHyperStatClose.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stat.main.BtHyperStatClose.pressed.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stat.main.BtHyperStatOpen.disabled.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stat.main.BtHyperStatOpen.mouseOver.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stat.main.BtHyperStatOpen.normal.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stat.main.BtHyperStatOpen.pressed.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UIWindow2.img.MiniMap.MaxMapMirror.c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UIWindow2.img.MiniMap.MaxMapMirror.e.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UIWindow2.img.MiniMap.MaxMapMirror.n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UIWindow2.img.MiniMap.MaxMapMirror.ne.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UIWindow2.img.MiniMap.MaxMapMirror.nw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UIWindow2.img.MiniMap.MaxMapMirror.nw2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UIWindow2.img.MiniMap.MaxMapMirror.s.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UIWindow2.img.MiniMap.MaxMapMirror.se.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UIWindow2.img.MiniMap.MaxMapMirror.sw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UIWindow2.img.MiniMap.MaxMapMirror.w.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
