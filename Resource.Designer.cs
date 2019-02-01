@@ -1023,6 +1023,46 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_statList_80000418 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_statList_80000418", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_statList_80000419 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_statList_80000419", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_statList_80000420 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_statList_80000420", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap HyperStat_Window_statList_80000421 {
+            get {
+                object obj = ResourceManager.GetObject("HyperStat_Window_statList_80000421", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap IconBase_0 {
             get {
                 object obj = ResourceManager.GetObject("IconBase_0", resourceCulture);
