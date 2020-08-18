@@ -19,7 +19,7 @@ namespace CharaSimResource {
     // 클래스에서 자동으로 생성되었습니다.
     // 멤버를 추가하거나 제거하려면 .ResX 파일을 편집한 다음 /str 옵션을 사용하여 ResGen을
     // 다시 실행하거나 VS 프로젝트를 다시 빌드하십시오.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "15.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Resource {
@@ -3463,6 +3463,16 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_leftParenthesis {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_Can_leftParenthesis", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_minus {
             get {
                 object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_Can_minus", resourceCulture);
@@ -3556,6 +3566,16 @@ namespace CharaSimResource {
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_reqSTR {
             get {
                 object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_Can_reqSTR", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Can_rightParenthesis {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_Can_rightParenthesis", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -3663,6 +3683,16 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_leftParenthesis {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_Cannot_leftParenthesis", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_minus {
             get {
                 object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_Cannot_minus", resourceCulture);
@@ -3756,6 +3786,16 @@ namespace CharaSimResource {
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_reqSTR {
             get {
                 object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_Cannot_reqSTR", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Cannot_rightParenthesis {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_Cannot_rightParenthesis", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -3863,6 +3903,16 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_leftParenthesis {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_Disabled_leftParenthesis", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_minus {
             get {
                 object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_Disabled_minus", resourceCulture);
@@ -3956,6 +4006,16 @@ namespace CharaSimResource {
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_reqSTR {
             get {
                 object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_Disabled_reqSTR", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Disabled_rightParenthesis {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_Disabled_rightParenthesis", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -4323,36 +4383,6 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber__ {
-            get {
-                object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_YellowNumber__", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
-        /// </summary>
-        public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber__1 {
-            get {
-                object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_YellowNumber__1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
-        /// </summary>
-        public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber__2 {
-            get {
-                object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_YellowNumber__2", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
-        /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_0 {
             get {
                 object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_YellowNumber_0", resourceCulture);
@@ -4453,9 +4483,59 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_leftParenthesis {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_YellowNumber_leftParenthesis", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_minus {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_YellowNumber_minus", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_none {
             get {
                 object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_YellowNumber_none", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_percent {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_YellowNumber_percent", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_plus {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_YellowNumber_plus", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_YellowNumber_rightParenthesis {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_YellowNumber_rightParenthesis", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
