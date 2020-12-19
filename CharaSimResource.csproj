@@ -1134,6 +1134,7 @@
     <None Include="Resources\CashShop.img.CashItem_label.7.png" />
     <None Include="Resources\CashShop.img.CashItem_label.8.png" />
     <None Include="Resources\CashShop.img.CashItem_label.9.png" />
+    <None Include="Resources\CashShop.img.CashItem_label.10.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\CSDiscount.0.png" />
