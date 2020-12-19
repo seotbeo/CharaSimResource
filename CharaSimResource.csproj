@@ -1131,14 +1131,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\CashShop.img.CashItem_label.6.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\CashShop.img.CashItem_label.7.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\CashShop.img.CashItem_label.8.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\CashShop.img.CashItem_label.9.png" />
   </ItemGroup>
   <ItemGroup>
