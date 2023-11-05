@@ -19,7 +19,7 @@ namespace CharaSimResource {
     // 클래스에서 자동으로 생성되었습니다.
     // 멤버를 추가하거나 제거하려면 .ResX 파일을 편집한 다음 /str 옵션을 사용하여 ResGen을
     // 다시 실행하거나 VS 프로젝트를 다시 빌드하십시오.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Resource {
@@ -4817,6 +4817,56 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Skill_Frame_cover {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Skill_Frame_cover", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Skill_Frame_dotline_c {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Skill_Frame_dotline_c", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Skill_Frame_dotline_e {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Skill_Frame_dotline_e", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Skill_Frame_dotline_w {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Skill_Frame_dotline_w", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Skill_Frame_iconBackgrnd {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip_img_Skill_Frame_iconBackgrnd", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMap_c {
             get {
                 object obj = ResourceManager.GetObject("UIWindow2_img_MiniMap_MaxMap_c", resourceCulture);
@@ -5010,6 +5060,16 @@ namespace CharaSimResource {
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_w {
             get {
                 object obj = ResourceManager.GetObject("UIWindow2_img_MiniMap_MaxMapMirror_w", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow2_img_Skill_skillTypeIcon_origin {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow2_img_Skill_skillTypeIcon_origin", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
