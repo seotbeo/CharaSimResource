@@ -4177,6 +4177,16 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_expand2 {
+            get {
+                object obj = ResourceManager.GetObject("UIToolTip.img.Item.Equip.Job.expand2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_Job_normal {
             get {
                 object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_Job_normal", resourceCulture);
@@ -4963,16 +4973,6 @@ namespace CharaSimResource {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-        
-        /// <summary>
-        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
-        /// </summary>
-        public static System.Drawing.Bitmap UIWindow2_img_Skill_skillTypeIcon_origin {
-            get {
-                object obj = ResourceManager.GetObject("UIWindow2_img_Skill_skillTypeIcon_origin", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
 
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
@@ -4985,117 +4985,109 @@ namespace CharaSimResource {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-
+        
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_e
-        {
-            get
-            {
+        public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_e {
+            get {
                 object obj = ResourceManager.GetObject("UIWindow2_img_MiniMap_MaxMapMirror_e", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-
+        
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_n
-        {
-            get
-            {
+        public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_n {
+            get {
                 object obj = ResourceManager.GetObject("UIWindow2_img_MiniMap_MaxMapMirror_n", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-
+        
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_ne
-        {
-            get
-            {
+        public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_ne {
+            get {
                 object obj = ResourceManager.GetObject("UIWindow2_img_MiniMap_MaxMapMirror_ne", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-
+        
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_nw
-        {
-            get
-            {
+        public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_nw {
+            get {
                 object obj = ResourceManager.GetObject("UIWindow2_img_MiniMap_MaxMapMirror_nw", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-
+        
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_nw2
-        {
-            get
-            {
+        public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_nw2 {
+            get {
                 object obj = ResourceManager.GetObject("UIWindow2_img_MiniMap_MaxMapMirror_nw2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-
+        
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_s
-        {
-            get
-            {
+        public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_s {
+            get {
                 object obj = ResourceManager.GetObject("UIWindow2_img_MiniMap_MaxMapMirror_s", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-
+        
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_se
-        {
-            get
-            {
+        public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_se {
+            get {
                 object obj = ResourceManager.GetObject("UIWindow2_img_MiniMap_MaxMapMirror_se", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-
+        
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_sw
-        {
-            get
-            {
+        public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_sw {
+            get {
                 object obj = ResourceManager.GetObject("UIWindow2_img_MiniMap_MaxMapMirror_sw", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-
+        
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_w
-        {
-            get
-            {
+        public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_w {
+            get {
                 object obj = ResourceManager.GetObject("UIWindow2_img_MiniMap_MaxMapMirror_w", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-
+        
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow2_img_Skill_skillTypeIcon_origin {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow2_img_Skill_skillTypeIcon_origin", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
         public static System.Drawing.Bitmap VScr9_disabled_base {
             get {
