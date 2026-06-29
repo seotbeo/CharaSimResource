@@ -2293,4 +2293,13 @@
   <data name="CashShop_img_CashItem_label_17" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\CashShop.img.CashItem_label.17.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="UIToolTip_img_Skill_Icon_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIToolTip.img.Skill.Icon.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIToolTip_img_Skill_Icon_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIToolTip.img.Skill.Icon.1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIToolTip_img_Skill_Icon_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIToolTip.img.Skill.Icon.2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
