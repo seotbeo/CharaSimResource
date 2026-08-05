@@ -2302,4 +2302,31 @@
   <data name="UIToolTip_img_Skill_Icon_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\UIToolTip.img.Skill.Icon.2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="UIWindow2_img_QuestIcon_3_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QuestIcon.3.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow2_img_QuestIcon_4_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QuestIcon.4.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow2_img_QuestIcon_5_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QuestIcon.5.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow2_img_QuestIcon_6_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QuestIcon.6.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow2_img_QuestIcon_7_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QuestIcon.7.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow2_img_QuestIcon_8_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QuestIcon.8.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow2_img_QuestIcon_9_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QuestIcon.9.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow2_img_QuestIcon_10_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QuestIcon.10.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow2_img_QuestIcon_11_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\QuestIcon.11.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

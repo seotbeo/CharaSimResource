@@ -7114,6 +7114,96 @@ namespace CharaSimResource {
         /// <summary>
         ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
+        public static System.Drawing.Bitmap UIWindow2_img_QuestIcon_10_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow2_img_QuestIcon_10_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow2_img_QuestIcon_11_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow2_img_QuestIcon_11_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow2_img_QuestIcon_3_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow2_img_QuestIcon_3_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow2_img_QuestIcon_4_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow2_img_QuestIcon_4_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow2_img_QuestIcon_5_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow2_img_QuestIcon_5_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow2_img_QuestIcon_6_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow2_img_QuestIcon_6_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow2_img_QuestIcon_7_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow2_img_QuestIcon_7_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow2_img_QuestIcon_8_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow2_img_QuestIcon_8_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow2_img_QuestIcon_9_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow2_img_QuestIcon_9_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
         public static System.Drawing.Bitmap UIWindow2_img_Skill_skillTypeIcon_ascent {
             get {
                 object obj = ResourceManager.GetObject("UIWindow2_img_Skill_skillTypeIcon_ascent", resourceCulture);
